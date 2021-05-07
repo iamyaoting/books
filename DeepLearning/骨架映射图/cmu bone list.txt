@@ -1,0 +1,147 @@
+num in sig codes/ num in our codes
+
+0 0 ROOT Hips
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 6 Xposition Yposition Zposition Zrotation Yrotation Xrotation 
+
+1 1  LHip
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+2 2  LeftUpLeg
+OFFSET 1.363060 -1.794630 0.839290
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+3 3  LeftLeg
+OFFSET 2.448110 -6.726130 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+4 4  LeftFoot
+OFFSET 2.562200 -7.039590 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+5 5  LeftToeBase
+OFFSET 0.157640 -0.433110 2.322550
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+- 6 End
+OFFSET 0.000000 0.000000 0.000000
+
+6 7  RHip
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+7 8  RightUpLeg
+OFFSET -1.305520 -1.794630 0.839290
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+8 9  RightLeg
+OFFSET -2.542530 -6.985550 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+9 10  RightFoot
+OFFSET -2.568260 -7.056230 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+10 11  RightToeBase
+OFFSET -0.164730 -0.452590 2.363150
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+- 12 End
+OFFSET 0.000000 0.000000 0.000000
+
+11 13  LowerBack
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+12 14  Spine
+OFFSET 0.028270 2.035590 -0.193380
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+13 15  Spine1
+OFFSET 0.056720 2.048850 -0.042750
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+14 16  Neck
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+15 17  Neck1
+OFFSET -0.054170 1.746240 0.172020
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+16 18  Head
+OFFSET 0.104070 1.761360 -0.123970
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+- 19 End
+OFFSET 0.000000 0.000000 0.000000
+
+17 20  LeftShoulder
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+18 21  LeftArm
+OFFSET 3.362410 1.200890 -0.311210
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+19 22  LeftForeArm
+OFFSET 4.983000 -0.000000 -0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+20 23  LeftHand
+OFFSET 3.483560 -0.000000 -0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+21 24  LeftFingerBase
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+22 25  LeftHandIndex1
+OFFSET 0.715260 -0.000000 -0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+- 26 End
+OFFSET 0.000000 0.000000 0.000000
+
+23  27  LThumb
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+- 28 End
+OFFSET 0.000000 0.000000 0.000000
+
+24 29  RightShoulder
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+25 30  RightArm
+OFFSET -3.136600 1.374050 -0.404650
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+26 31  RightForeArm
+OFFSET -5.241900 -0.000000 -0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+27 32  RightHand
+OFFSET -3.444170 -0.000000 -0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+28 33  RightFingerBase
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+29 34  RightHandIndex1
+OFFSET -0.622530 -0.000000 -0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+- 35 End
+OFFSET 0.000000 0.000000 0.000000
+
+
+30 36  RThumb
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 3 Zrotation Yrotation Xrotation
+
+- 37 End
+OFFSET 0.000000 0.000000 0.000000

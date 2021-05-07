@@ -1,0 +1,2 @@
+D:\DeepLearning\motionsynth_code\synth\denoise\Xnois.txt
+240

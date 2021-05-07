@@ -1,0 +1,114 @@
+sig bone code/vcc bone code
+
+0 0 Hips
+OFFSET 0.000000 0.000000 0.000000
+CHANNELS 6 Xposition Yposition Zposition Yrotation Xrotation Zrotation
+
+1 1 Chest
+OFFSET 0.000000 9.426700 -0.002200
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+2 2 Chest2
+OFFSET 0.000000 9.390200 0.004500
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+3 3 Chest3
+OFFSET 0.000000 9.350700 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+4 4 Chest4
+OFFSET 0.000000 9.341100 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+5 5 Neck
+OFFSET 0.000000 14.119100 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+6 6 Head
+OFFSET 0.000000 8.742700 0.009500
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+- 7 End
+OFFSET 0.000000 16.650000 0.005000
+
+7 8 RightCollar
+OFFSET -2.872800 9.353000 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+8 9 RightShoulder
+OFFSET -13.486500 0.000000 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+9 10 RightElbow
+OFFSET -29.627200 0.000000 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+10 11 RightWrist
+OFFSET -23.947600 0.000000 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+- 12 End
+OFFSET -17.684800 0.000000 0.000000
+
+11 13 LeftCollar
+OFFSET 2.872800 9.353000 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+12 14 LeftShoulder
+OFFSET 13.486500 0.000000 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+13 15 LeftElbow
+OFFSET 29.627200 0.000000 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+14 16 LeftWrist
+OFFSET 23.947600 0.000000 0.000000
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+- 17 End
+OFFSET 17.684800 0.000000 0.000000
+
+15 18 RightHip
+OFFSET -7.681000 0.010900 0.001100
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+16 19 RightKnee
+OFFSET 0.000000 -40.020800 -0.001100
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+17 20 RightAnkle
+OFFSET 0.000000 -38.871400 -0.001800
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+18 21 RightToe
+OFFSET 0.000000 -6.573300 14.871900
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+- 22 End
+OFFSET 0.000000 -1.450600 6.311100
+
+19 23 LeftHip
+OFFSET 7.681000 0.010900 0.001100
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+20 24 LeftKnee
+OFFSET 0.000000 -40.020800 -0.001100
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+21 25 LeftAnkle
+OFFSET 0.000000 -38.871400 -0.001800
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+22 26 LeftToe
+OFFSET 0.000000 -6.573300 14.871900
+CHANNELS 3 Yrotation Xrotation Zrotation
+
+- 27 End
+OFFSET 0.000000 -1.450600 6.311100
+
+
+
+
+
+

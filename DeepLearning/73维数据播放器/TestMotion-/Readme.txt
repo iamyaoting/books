@@ -1,0 +1,1 @@
+motion_Data文件夹中的StreamingAssets文件夹里有三个config文件，里面的内容分别表示要读取的三个文件的路径和帧数
